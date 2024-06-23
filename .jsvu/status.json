@@ -1,0 +1,20 @@
+{
+	"os": "win64",
+	"engines": [
+		"chakra",
+		"graaljs",
+		"hermes",
+		"javascriptcore",
+		"quickjs",
+		"spidermonkey",
+		"v8",
+		"v8-debug",
+		"xs"
+	],
+	"chakra": "1.11.24",
+	"hermes": "0.11.0",
+	"spidermonkey": "122.0b4",
+	"v8": "12.2.156",
+	"v8-debug": "12.2.156",
+	"xs": "4.3.4"
+}

@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "@vsintellicode/starred-suggestions-csharp-models.win32-x64": "1.0.0-gddda8ebbf2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dev.azure.com/devdiv/DevDiv/_git/IntelliCode-VS",
+    "branch": "green"
+  }
+}

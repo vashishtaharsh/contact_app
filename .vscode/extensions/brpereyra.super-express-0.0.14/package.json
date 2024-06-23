@@ -1,0 +1,63 @@
+{
+	"name": "super-express",
+	"displayName": "Super express",
+	"description": "Snippets for express projects",
+	"version": "0.0.14",
+	"author": {
+		"name": "Bryan Pereyra",
+		"email": "brp2196@gmail.com",
+		"url": "https://brpereyra.com.ve"
+	},
+	"publisher": "brpereyra",
+	"icon": "image/icon.png",
+	"homepage": "https://github.com/brpereyra/super-express/#README.md",
+	"engines": {
+		"vscode": "^1.29.0"
+	},
+	"bugs": {
+		"url": "https://github.com/brpereyra/super-express/issues",
+		"email": "brp2196@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brpereyra/super-express"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"node",
+		"express",
+		"snippets",
+		"typescript",
+		"javascript",
+		"prettier"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/js/snippets.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/ts/snippets.json"
+			},
+			{
+				"language": "json",
+				"path": "./snippets/json/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4c36f531-65df-416d-adc1-0b5eeba9e273",
+		"publisherId": "150823a7-b824-40d1-9755-3cb039e74804",
+		"publisherDisplayName": "Bryan Pereyra",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1702618107024,
+		"pinned": false,
+		"preRelease": false
+	}
+}
